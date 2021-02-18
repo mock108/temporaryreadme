@@ -7,14 +7,14 @@
  - JDK/JRE(OracleJDK AdptOpenJDK)
  - Java lts(EoL)
  - static void main(String... args)
- - アルゴリズム
- - オブジェクト指向
- - JavaBeans
- - デザインパターン
 ## 統合開発環境(Eclipse/IntelliJ IEDA)
  - Eclispe Pleiades All in Oneインストール
  - Hello world
  - static/new
+ - アルゴリズム
+ - オブジェクト指向
+ - JavaBeans
+ - デザインパターン
 ## Spring boot
 #### Spring boot(1)
  - Spring Initializr
